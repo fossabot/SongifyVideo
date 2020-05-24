@@ -10,7 +10,7 @@ class SpeechDetector:
 
     def __init__(self, movieLocation, IBM_Filename, speaker):
         # IBM credentials
-        self.api_key = "WBbHPHQZFHQ3pLFQxlg65hd5kuJUhVsNTH1eQZ3w0oXM" #qh5xP6MaK66OIoIDuF6zDZzlVLNcq8kknWZK1rOmWuTH"
+        self.api_key = YOUR_API_KEY
         self.url = "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
         self.movieLocation = movieLocation
         self.IBM_Dictionary = {}
