@@ -32,83 +32,72 @@ When it is done, you will be prompted via voice to confirm whether IBM transcrib
 
 After all word matches have been confirmed or skipped, the program will create a mishmash video of your speaker. If you got this far I am very impressed and congragulate you. 
 
-├── AudioFX.py 
-├── Cleanser.py
-├── Elon
-│   ├── elon1
-│   │   ├── elon1.mp3
-│   │   ├── elon1.mp4
-│   │   └── elon1.srt
-        ...
-│   ├── elon40
-│   │   ├── elon40.mp3
-│   │   ├── elon40.mp4
-│   │   ├── elon40.srt
-│   │   └── elon40tore
-│   ├── exhaustedWord
-│   ├── humanApproveFile
-│   ├── movieOrder
-│   ├── subtitleAudio
-│   │   ├── a0.mp3
-        ...
-│   │   └── youre9.mp3
-│   ├── subtitledVideos
-│   ├── unapprovedIBMWord
-│   ├── wordAudio
-        ...
-│   │   └── you69.mp3
-│   └── wordVideo
-        ...
-│       └── yourself.mp4
-├── FileCourier.py
-├── SingMeCruise.py
-├── Snippet.py
-├── SongVideoMatcher.py
-├── SongifyVideo.py
-├── SpeechDetector.py
-├── Timestamp.py
-├── VideoAssembler.py
-├── VideoSelector.py
-├── VideoTrimmer.py
-├── WaveGenerator.py
-├── WordFilter.py
-├── __pycache__
-│   ├── AudioFX.cpython-37.pyc
-│   ├── Cleanser.cpython-37.pyc
-│   ├── FileCourier.cpython-37.pyc
-│   ├── Snippet.cpython-37.pyc
-│   ├── SongVideoMatcher.cpython-37.pyc
-│   ├── SpeechDetector.cpython-37.pyc
-│   ├── Timestamp.cpython-37.pyc
-│   ├── VideoAssembler.cpython-37.pyc
-│   ├── VideoTrimmer.cpython-37.pyc
-│   └── WaveGenerator.cpython-37.pyc
-├── combineClip
-        ...
-│   ├── combineClip74.mp4
-│   └── videoClipLocation.txt
-├── finalVideo
-│   └── Elon_StuckWithYou.mp4
-├── instrumentalClip
-        ...
-│   └── outputInstrumentalPath73.mp4
-├── normalizedClip
-│   ├── normalized
-        ...
-│   └── normalizedyourself.mp4
-├── silence
-│   ├── elonswag.mp4
-│   └── trumpswag.mp4
-├── songs
-│   ├── StuckWithYou.srt
-│   ├── StuckWithYouInstrumental.mp3
-│   └── songStatsList
-├── stretchedCombineClip
-        ...
-│   └── stretchedCombineSilenceClip73.mp4
-├── testing
-        ...
-│   └── testing74.mp4
-├── thumbnail
-│   └── wallemoji.png
-└── utility.py
+├── AudioFX.py\
+├── Cleanser.py\
+├── Elon \
+│   ├── elon1\
+│   │   ├── elon1.mp3\
+│   │   ├── elon1.mp4\
+│   │   └── elon1.srt\
+        ...\
+│   ├── elon40\
+│   │   ├── elon40.mp3\
+│   │   ├── elon40.mp4\
+│   │   ├── elon40.srt\
+│   │   └── elon40tore\
+│   ├── exhaustedWord\
+│   ├── humanApproveFile\
+│   ├── movieOrder\
+│   ├── subtitleAudio\
+│   │   ├── a0.mp3\
+        ...\
+│   │   └── youre9.mp3\
+│   ├── subtitledVideos\
+│   ├── unapprovedIBMWord\
+│   ├── wordAudio\
+        ...\
+│   │   └── you69.mp3\
+│   └── wordVideo\
+        ...\
+│       └── yourself.mp4\
+├── FileCourier.py\
+├── SingMeCruise.py\
+├── Snippet.py\
+├── SongVideoMatcher.py\
+├── SongifyVideo.py\
+├── SpeechDetector.py\
+├── Timestamp.py\
+├── VideoAssembler.py\
+├── VideoSelector.py\
+├── VideoTrimmer.py\
+├── WaveGenerator.py\
+├── WordFilter.py\
+├── combineClip\
+        ...\
+│   ├── combineClip74.mp4\
+│   └── videoClipLocation.txt\
+├── finalVideo\
+│   └── Elon_StuckWithYou.mp4\
+├── instrumentalClip\
+        ...\
+│   └── outputInstrumentalPath73.mp4\
+├── normalizedClip\
+│   ├── normalized\
+        ...\
+│   └── normalizedyourself.mp4\
+├── silence\
+│   ├── elonswag.mp4\
+│   └── trumpswag.mp4\
+├── songs\
+│   ├── StuckWithYou.srt\
+│   ├── StuckWithYouInstrumental.mp3\
+│   └── songStatsList\
+├── stretchedCombineClip\
+        ...\
+│   └── stretchedCombineSilenceClip73.mp4\
+├── testing\
+        ...\
+│   └── testing74.mp4\
+├── thumbnail\
+│   └── wallemoji.png\
+└── utility.py\
