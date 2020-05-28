@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fst4rgut22%2FSongifyVideo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fst4rgut22%2FSongifyVideo?ref=badge_shield)
+
 Have you ever wondered what it would be like if Elon Musk sang Justin Bieber and Ariana Grande's hit song "Stuck With You"? 
 
 Well now you can songify your favorite personality with this Python program. Take a look here: https://www.youtube.com/watch?v=twu7Yj8IRxw
@@ -101,3 +103,7 @@ After all word matches have been confirmed or skipped, the program will create a
 ├── thumbnail\
 │   └── wallemoji.png\
 └── utility.py\
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fst4rgut22%2FSongifyVideo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fst4rgut22%2FSongifyVideo?ref=badge_large)
